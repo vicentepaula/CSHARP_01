@@ -1,0 +1,14 @@
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.exe
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.deps.json
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.runtimeconfig.json
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.runtimeconfig.dev.json
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.dll
+C:\Users\TI\source\repos\validacao\validacao\bin\Debug\netcoreapp3.1\validacao.pdb
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.csproj.AssemblyReference.cache
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.AssemblyInfo.cs
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.dll
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.pdb
+C:\Users\TI\source\repos\validacao\validacao\obj\Debug\netcoreapp3.1\validacao.genruntimeconfig.cache
